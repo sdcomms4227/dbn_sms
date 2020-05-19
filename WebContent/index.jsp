@@ -4,8 +4,8 @@
 
 <head>
 <meta name="viewport" content="width=device-width,initail-scale=1">
-<link rel="stylesheet" href="css/bootstrap.min.css" />
 <title>SMS 프로젝트</title>
+<link rel="stylesheet" href="css/bootstrap.min.css" />
 </head>
 
 <body>
@@ -51,7 +51,7 @@
 			</table>
 		</form>
 	</div>
-	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src="js/jquery-3.4.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 </body>
 
